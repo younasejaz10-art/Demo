@@ -5,3 +5,4 @@ SSH key
 changes made from remote
 pull ke liye changes
 changes from local to remote
+JS edit for merging branch
